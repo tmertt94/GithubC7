@@ -6,13 +6,5 @@ public class HelloWorld {
         for 
         loginPage
         */
-
-        /*
-        Some
-         codes
-        for
-        landingPage
-         */
-
     }
 }
